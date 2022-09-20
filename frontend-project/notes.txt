@@ -1,0 +1,43 @@
+open library: https://openlibrary.org/
+
+the noticer: https://openlibrary.org/works/OL4130553W/The_noticer?edition=ia%3Anoticersometimes00andr
+  image: https://covers.openlibrary.org/b/olid/OL22842635M-M.jpg
+  description:  sometimes all a person needs is a little perspective
+
+blessed child: https://openlibrary.org/works/OL16071552W/Blessed_child?edition=ia%3Ablessedchild00brig
+  image: https://covers.openlibrary.org/b/olid/OL3944102M-M.jpg
+
+  description: A young orphaned boy was abandoned in the midst of an invasion and raised in an Ethiopian monastery. He has never seen outside its walls--at least, not the way most people see. Now he must flee those walls or die.
+
+
+repo notes
+echo "# my first repo" >> README.md 
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@jeff/first project
+git push -u origin main
+
+
+deadline: https://openlibrary.org/books/OL8847784M/Deadline
+image: https://covers.openlibrary.org/b/id/860636-L.jpg
+summary: Deadline is the story of a politically correct journalist forced by tragic and mysterious circumstances to come to terms with his own mortality. In the process he must also deal with the consequences of his skewed perspectives on life, family, morality, and religion.
+
+narnia: https://openlibrary.org/books/OL7279577M/The_Chronicles_of_Narnia
+image https://covers.openlibrary.org/b/id/9185069-L.jpg
+summary Journeys to the end of the world, fantastic creatures, and epic battle between good and evil - what more could any reader ask for in one book? 
+
+interception https://openlibrary.org/works/OL20310518W/A_Life_Intercepted
+image https://covers.openlibrary.org/b/id/8971016-L.jpg
+
+saint  https://openlibrary.org/works/OL5705779W/Saint?edition=ia%3Asaint00dekk
+image   https://covers.openlibrary.org/b/id/7254656-L.jpg
+summary I know a few things about myself. I know that my name is Carl. My wife is Kelly. I love her more than my own life. If she told me to kill you, I would.
+I’m a captive, deep inside Hungary – no one knows I’m here. I can put a bullet into a ten-inch target at 3,000 yards
+
+Black  https://openlibrary.org/works/OL5705728W/Black?edition=ia%3Ablackdekk00dekk
+image  https://covers.openlibrary.org/b/id/645831-L.jpg
+summary  Black: The Birth of Evil is a novel written by author Ted Dekker. It is the first book in the Circle Series, and is a part of the Books of History Chronicles.
+
+
