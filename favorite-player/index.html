@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script defer src='./index.js'></script>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap" rel="stylesheet">
+    <title>FAVORITE PLAYER</title>
+</head>
+
+<body>
+    <div id="header">
+        <h1>FAVORITE PLAYER LISTING</h1>
+    </div>
+    <table>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Sport</th>
+        <th>Team</th>
+        <th>Rating</th>
+    </table>
+    <div id="container"></div>
+    <div id="add-player">
+        <h3>Add Your Favorite Player</h3>
+
+
+        <label for="first-name">First Name</label><input id="first" type="text" /><br>
+        <label for="last-name">Last Name </label><input id="last" type="text" /><br>
+        <label for="sport">Sport </label><input id="sport" type="text" /><br>
+        <label for="team">Team </label><input id="team" type="text" /><br>
+        <label for="rating">Rating </label><input id="rating" type="text" /><br>
+        <input type="submit" id="submit-add-player" />
+        <ul>
+
+        </ul>
+        Change Rating
+        <button type="button">Change</button> <br>
+        Delete Player
+        <button type="button">Delete</button> <br>
+
+    </div>
+</body>
+
+</html>

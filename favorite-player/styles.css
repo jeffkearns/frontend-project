@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://img.freepik.com/free-vector/realistic-american-footbal-field_23-2148806943.jpg?size=626&ext=jpg&ga=GA1.2.212966635.1665503663");
+    color: rgb(35, 141, 180);
+    font-family: 'Merriweather', serif;
+}
+
+
+/* <div id="add-player">
+<h3>Add Player</h3>
+<ul>
+    <li><label for="first-name">First Name</label><input id="first" type="text" /></li><br>
+    <li><label for="last-name">Last Name </label><input id="last" type="text" /></li><br>
+    <li label for="sport">Sport </label><input id="sport" type="text" /></li><br>
+    <li label for="team">Team </label><input id="team" type="text" /></li><br>
+    <li label for="rating">Rating </label><input id="rating" type="text" /></li><br>
+</ul>
+<input type="submit" id="submit-add-player"><br>
+<input type="submit" id="change-rating">
+
+</div> */
